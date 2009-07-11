@@ -1,4 +1,0 @@
-¿Cómo hago el gestor de conexión?
-	
-	- POOL				:	Conexión siempre conectada al SGBD
-	- Conectar / Desconectar	:	Sin mantener conexiones activaas, todo operaciones atomicas.	

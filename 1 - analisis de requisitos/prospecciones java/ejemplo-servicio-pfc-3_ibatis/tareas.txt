@@ -1,3 +1,0 @@
-ejemplo.sql;* * * * *
-ejemplo_1.sql;44 11 * * *
-
